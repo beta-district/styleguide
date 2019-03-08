@@ -41,6 +41,7 @@ Rails/HttpPositionalArguments:
 Rails/SkipsModelValidations:
   Exclude:
     - 'db/migrate/**/*.rb'
+    - 'data/migrate/**/*.rb'
 RSpec/ExampleLength:
   Max: 10
 RSpec/MultipleExpectations:
